@@ -1,134 +1,119 @@
 <div align="center">
 
-# Hey, I'm Alejandro 👋
-### Engineering Manager · iOS Architect · Apple Ecosystem Nerd
+# Alejandro Sanabria
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=650&lines=8%2B+years+crafting+iOS+experiences;Engineering+Manager+of+iOS+%26+Android+teams;Building+with+LLMs+%26+AI+agents;WWDC+attendee+%26+Apple+workshops+alum" alt="Typing SVG" />
+**Engineering Manager · iOS · Mobile**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesanabriav/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alesanabriav)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=8%2B+years+in+iOS+%26+mobile+engineering;Led+iOS+%26+Android+teams+at+Platzi;Building+with+LLMs+and+autonomous+agents;Connecting+engineering+to+business+outcomes" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesanabriav/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/alesanabriav)
 
 </div>
 
 ---
 
-## 🍎 The Story So Far
+## About
 
-I didn't start as an Engineering Manager — I started with a UIKit view controller and a lot of curiosity.
+Engineering Manager with 8+ years of experience building and leading mobile teams. My background is deep in the Apple ecosystem — Swift, SwiftUI, UIKit, mobile architecture — and over time I've grown into leading full mobile organizations across iOS and Android.
 
-Over **8+ years**, I went from writing my first Swift lines to leading the entire mobile engineering org at **[Platzi](https://platzi.com)**, one of Latin America's largest edtech platforms — managing both iOS and Android teams, shipped features to millions of students, and rebuilt mobile architectures from the ground up.
+I've spent my career at **Platzi**, one of Latin America's largest edtech platforms, progressing from iOS Engineer to Lead to Engineering Manager. I've been responsible for the architecture, quality, strategy, and people side of mobile — while also expanding into growth, product strategy, and business impact.
 
-Today I sit at the intersection of **deep iOS expertise**, **mobile leadership**, and **AI-powered development** — I still read Swift Evolution proposals for fun, and I spend a good chunk of my time exploring how LLMs and autonomous agents are changing the way we build software.
+My focus now sits at the intersection of strong engineering fundamentals, team leadership, and the practical application of AI in how we build software.
 
 ---
 
-## 📱 iOS — My Primary Craft
+## iOS Engineering
 
 ```swift
-struct Alejandro: iOSEngineer {
-    let stack: [String]    = ["Swift", "SwiftUI", "UIKit", "Combine", "XCTest"]
+struct Alejandro {
+    let core: [String]     = ["Swift", "SwiftUI", "UIKit", "Combine", "XCTest"]
     let patterns: [String] = ["MVVM", "Clean Architecture", "Modular Design"]
     let specialties        = ["Streaming", "Offline-first", "Internal SDKs"]
-    let currentFocus       = "On-device AI with Apple Foundation Models"
-    var attendedWWDC       = true
+    let currentFocus       = "On-device AI · Apple Foundation Models"
 }
 ```
 
-- 🔨 **Built** native iOS from scratch — led migration from React Native to 100% native Swift
-- - 🏗️ **Architected** streaming & dynamic content delivery systems at scale
-  - - 📦 **Created** internal libraries that power the core mobile stack
-    - - 🤖 **Shipped** on-device AI features using Apple's Foundation Models — recognized by Apple as an innovation example
-      - - 🎯 **Defined** code quality standards, review culture, and architectural direction across the iOS codebase
-       
-        - ---
+- Led the migration from React Native to a fully native Swift iOS application
+- - Designed the architecture for streaming and dynamic content delivery at scale
+  - - Built internal libraries that power the core mobile stack
+    - - Shipped on-device AI features using Apple's Foundation Models — recognized by Apple as an innovation example
+      - - Defined code quality standards, architectural direction, and review culture across the iOS codebase
+        - - Attended WWDC and Apple Developer Workshops in Mexico City and San Francisco
+         
+          - ---
 
-        ## 🤝 Android — Leadership & Hands-On Support
+          ## Android
 
-        I led the Android team as part of my Engineering Manager role — not as an Android specialist, but as the person who kept things moving, maintained architectural coherence, and jumped in when it mattered.
+          Led the Android team as part of my Engineering Manager scope — providing architectural guidance, hands-on support for critical issues, and ensuring alignment with the broader mobile strategy. Not an Android specialist, but a manager who kept the team unblocked, consistent, and moving forward.
 
-        - 🧭 Managed the Android team alongside iOS, ensuring alignment across both platforms
-        - - 🔧 Hands-on when needed: fixing critical bugs, reviewing architecture decisions, unblocking engineers
-          - - 🏛️ Applied mobile-first architectural principles across both codebases for consistency
-            - - 🤝 Bridged iOS and Android decisions to maintain a unified mobile strategy
-             
-              - ---
+          ---
 
-              ## 🧭 Leadership & Team Building
+          ## Leadership
 
-              I scaled the mobile team **more than 3x** — across iOS and Android — recruiting, growing, and retaining engineers who care about quality and craft.
+          I scaled the mobile engineering team more than 3x across iOS and Android — recruiting, structuring, and developing engineers while maintaining high standards for quality and delivery.
 
-              | What I focus on | Why it matters |
-              |---|---|
-              | 🏛️ Technical direction & architecture | Fast teams need solid foundations |
-              | 🌱 Mentorship & career growth | Great engineers build great products |
-              | 🧹 Technical debt reduction | Velocity without chaos |
-              | 📊 Growth & product strategy | Engineering decisions have business impact |
-              | 🤝 Cross-functional alignment | Mobile doesn't exist in a vacuum |
+          | Area | Focus |
+          |---|---|
+          | Technical direction | Architecture decisions, long-term codebase health |
+          | Technical debt | Systematic reduction initiatives that improved velocity and maintainability |
+          | Team development | Mentorship, career growth, and engineering culture |
+          | Cross-functional alignment | Partnering with product, design, and backend |
+          | Business impact | Connecting mobile engineering decisions to user acquisition, retention, and key metrics |
+          | Growth strategy | Expanding scope beyond mobile into product and business outcomes |
 
-              ---
+          ---
 
-              ## 🤖 Building with AI — The New Frontier
+          ## Business Impact
 
-              This is where I'm spending a lot of energy right now. I've gone deep into using LLMs not just as tools, but as **collaborators in the engineering workflow**.
+          Engineering decisions have consequences beyond the codebase. Over the past years I've intentionally shifted toward understanding the full picture — how architecture choices affect delivery speed, how mobile quality connects to retention, and how technical investments translate into measurable outcomes.
 
-              ```
-              Current AI stack:
-                Claude Code    → Agentic coding, rapid prototyping, architecture exploration
-                LLM Workflows  → Automating repetitive dev tasks & code generation pipelines
-                AI Agents      → Designing multi-step autonomous workflows for real use cases
-                Prompt Craft   → Building reusable, composable prompt systems as "skills"
-              ```
+          - Drove technical debt reduction initiatives that increased team velocity and reduced incident rates
+          - - Expanded mobile engineering scope into growth and product strategy, aligning roadmap priorities with business metrics
+            - - Led cross-functional planning across iOS and Android squads, balancing engineering capacity with product and business goals
+              - - Platzi's mobile work recognized by Apple as an example of innovation — a direct outcome of the team's execution and direction
+               
+                - ---
 
-              - ⚡ **Building fast** — using Claude Code to prototype, scaffold, and ship at a speed that wasn't possible before
-              - - 🔁 **Automating** — replacing repetitive engineering tasks with LLM-driven pipelines
-                - - 🧩 **Agent design** — creating multi-agent workflows where models hand off tasks, validate outputs, and self-correct
-                  - - 🧠 **Skill building** — designing modular "skill" prompts that can be composed into larger autonomous systems
-                    - - 🛠️ **Engineering intuition + AI speed** — using deep technical experience to guide LLMs toward quality outcomes, not just fast ones
-                     
-                      - > *"The engineers who will thrive aren't the ones who fear AI — they're the ones who know how to think clearly enough to direct it."*
-                        >
-                        > ---
-                        >
-                        > ## 🌍 Apple Community
-                        >
-                        > - 🎟️ Attended **WWDC** in person
-                        > - - 🏫 Participated in **Apple Developer Workshops** in Mexico City & San Francisco
-                        >   - - 🏆 Platzi recognized by **Apple** as an innovation example for the Foundation Models framework
-                        >    
-                        >     - ---
-                        >
-                        > ## 📊 GitHub Stats
-                        >
-                        > <div align="center">
+                ## AI & Autonomous Workflows
 
-                        ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesanabriav7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+                Currently investing significant time in applying LLMs and agentic systems to real engineering problems — not as experimentation, but as a shift in how work gets done.
 
-                        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesanabriav7&layout=compact&theme=tokyonight&hide_border=true)
+                ```
+                Claude Code     →  Agentic coding, architecture exploration, rapid prototyping
+                LLM Pipelines   →  Automating repetitive engineering and content workflows
+                Agent Design    →  Multi-step autonomous workflows with validation and handoffs
+                Skill Systems   →  Modular, composable prompt architectures built for reuse
+                ```
 
-                        </div>
+                Using deep technical context to direct AI toward quality outcomes — speed without losing engineering judgment.
 
-                        ---
+                ---
 
-                        ## 🛠️ Tech I Work With
+                ## Tech
 
-                        <div align="center">
+                <div align="center">
 
-                        ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-                        ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=apple&logoColor=white)
-                        ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-                        ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-                        ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-                        ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-                        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+                ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+                ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=apple&logoColor=white)
+                ![UIKit](https://img.shields.io/badge/UIKit-1C1C1E?style=flat-square&logo=apple&logoColor=white)
+                ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+                ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+                ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+                ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+                ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-                        </div>
+                </div>
 
-                        ---
+                ---
 
-                        <div align="center">
+                <div align="center">
 
-                        *"The best engineering leaders don't just ship features — they understand why those features matter."*
+                [![GitHub followers](https://img.shields.io/github/followers/alesanabriav7?style=flat-square&label=Followers&color=888)](https://github.com/alesanabriav7)
+                [![GitHub stars](https://img.shields.io/github/stars/alesanabriav7?style=flat-square&label=Stars&color=888&affiliations=OWNER)](https://github.com/alesanabriav7)
 
-                        **📬 Let's connect → [linkedin.com/in/alesanabriav](https://www.linkedin.com/in/alesanabriav/)**
+                <br/>
 
-                        </div>
+                [linkedin.com/in/alesanabriav](https://www.linkedin.com/in/alesanabriav/)
+
+                </div>
