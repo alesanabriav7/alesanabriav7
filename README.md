@@ -2,9 +2,9 @@
 
 # Alejandro Sanabria
 
-**Engineering Manager · Mobile (iOS & Android)**
+**Engineering Manager · Mobile Platform Leader · AI-Augmented Execution**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=8%2B+years+in+iOS+%26+mobile+engineering;Led+iOS+%26+Android+teams+at+Platzi;Building+with+LLMs+and+autonomous+agents;Connecting+engineering+to+business+outcomes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Engineering+Manager+who+still+ships;Building+teams+and+systems+at+Platzi;AI+agents+%26+autonomous+workflows;Technical+depth+meets+people+leadership" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesanabriav/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/alesanabriav)
@@ -13,69 +13,58 @@
 
 ---
 
-## Executive Summary
-
-Engineering Manager with 8+ years in mobile, combining strong technical depth in iOS with people and delivery leadership across iOS and Android teams.
-
-At **Platzi**, I progressed from iOS Engineer to Lead to Engineering Manager, owning architecture direction, engineering quality, team development, and cross-functional execution for mobile.
-
-I focus on building high-performing teams, maintaining a technically healthy mobile platform, and connecting engineering decisions to product and business outcomes.
+I'm an Engineering Manager who still thinks in systems and ships with AI. I lead mobile teams at Platzi, make architecture decisions that stick, and use LLMs and autonomous agents to make engineering faster without making it worse.
 
 ---
 
-## Leadership Scope
+## The Arc
 
-- Scaled the mobile organization across iOS and Android through hiring, team structure, and clear role expectations
-- Set technical direction and delivery standards with a strong focus on maintainability, quality, and predictable execution
-- Partnered with product, design, backend, and leadership to align roadmaps with business priorities
-- Built engineering culture around ownership, code quality, mentoring, and continuous improvement
-- Led planning and prioritization across multiple mobile squads, balancing delivery needs with long-term platform health
+I've spent most of my career at **Platzi**, and each phase taught me something different about how software gets built.
 
-| Area | Focus |
-|---|---|
-| Technical direction | Architecture decisions, long-term codebase health |
-| Technical debt | Structured reduction work to protect delivery speed and reliability |
-| Team development | Mentorship, career growth, and engineering culture |
-| Cross-functional alignment | Partnering with product, design, and backend |
-| Business impact | Connecting engineering work to adoption, retention, and product outcomes |
-| Growth strategy | Expanding scope beyond mobile into product and business outcomes |
+I started as an iOS engineer obsessed with craft — reliable code, clean architecture, the kind of foundations you can build on for years. That's where I learned that quality isn't the opposite of speed; it's what makes speed sustainable.
+
+As the platform grew, so did the problems. I led the migration from React Native to fully native apps — Swift on iOS, Kotlin on Android. I've worked across all three paradigms: hybrid frameworks, native iOS, and native Android. That experience taught me what each approach actually costs and where each one breaks. The migration wasn't about picking a side; it was about understanding the trade-offs deeply enough to make the right call for the product.
+
+From there, leadership became the natural next step. Not away from engineering — deeper into it. I took ownership of the full mobile platform — iOS and Android — scaling teams, aligning delivery with product and design, and turning technical debt reduction from a wish list into a discipline. I didn't stop caring about code; I started caring about the systems that produce code across both platforms.
+
+Now I'm investing heavily in AI — not as a side interest, but as the next evolution of how I lead. The same instinct that drove me from writing code to building teams is now driving me toward building smarter workflows and autonomous execution patterns.
 
 ---
 
-## Engineering Credibility (Hands-on)
+## How I Lead
 
-- Deep iOS background: `Swift`, `SwiftUI`, `UIKit`, `Combine`, `XCTest`
-- Led migration from React Native to a fully native Swift iOS app
-- Designed architecture for streaming and dynamic content delivery
-- Built internal libraries used across the mobile stack
-- Defined iOS engineering standards: review quality, architecture consistency, and code health practices
-- Shipped on-device AI features using Apple Foundation Models; work was recognized by Apple as an innovation example
-- Participated in WWDC and Apple Developer Workshops in Mexico City and San Francisco
+My job is to create the conditions where engineers do their best work and the product moves forward. That means operating across layers — architecture, people, process — and knowing when to go deep on each one.
 
-### Android Collaboration
+On the technical side, I've designed streaming and dynamic content architectures, built internal libraries shared across the mobile platform, and defined the guardrails that keep both iOS and Android codebases healthy as teams scale. I've shipped on-device AI features with Apple Foundation Models, and our mobile work was recognized by Apple as an innovation example. Having built with React Native, Swift, and Kotlin, I bring architectural judgment that isn't locked to one platform — I evaluate trade-offs across the full native and hybrid spectrum.
 
-Managed Android as part of a unified mobile strategy: partnering closely with Android specialists, supporting architecture decisions, unblocking critical delivery risks, and keeping iOS/Android execution aligned.
+On the people side, I've scaled and structured mobile teams across both platforms, mentored engineers through career transitions, and built a review culture where high standards are the norm, not the exception. I lead Android scope directly — through close partnership with platform specialists, shared architecture decisions, critical unblocking, and unified execution standards that keep iOS and Android moving as one team, not two silos.
+
+The two sides aren't separate. The best technical decisions come from understanding your team, and the best teams are built around clear technical vision.
 
 ---
 
-## AI & Autonomous Workflows
+## What I'm Building Now
 
-I apply LLMs and agentic systems to improve engineering throughput and quality, with practical workflows that support day-to-day delivery.
+AI is the biggest shift in how engineering work gets done since version control. I'm not waiting to see how it plays out — I'm building with it every day.
+
+As an EM, I use AI to compress feedback loops, reuse context across decisions, and raise execution quality without adding headcount. As a builder, I'm going deeper:
 
 ```
-Agentic coding  →  Faster architecture exploration and prototyping
-LLM pipelines   →  Reduced repetitive engineering workflow overhead
-Agent design    →  Multi-step workflows with validation and handoffs
-Skill systems   →  Reusable prompt patterns for consistent execution
+Agentic coding    → architecture exploration, rapid prototyping, shipping faster
+LLM pipelines     → automating repetitive engineering work end-to-end
+Agent design      → multi-step execution with validation, handoffs, and recovery
+Skill systems     → reusable prompt architectures that encode team knowledge
 ```
 
-Goal: increase speed while keeping engineering judgment, reliability, and maintainability.
+This isn't experimentation. It's how I believe engineering teams will operate within a few years — and the managers who understand it deeply will build the strongest teams.
 
 ---
 
-## Current Focus
+## What I Believe
 
-Open to Engineering Manager roles where strong mobile engineering foundations, team leadership, and product impact are equally important.
+- **Quality is a multiplier, not a tax.** Investing in architecture and standards pays back in velocity every sprint.
+- **Lead from the code, not above it.** An EM who can't evaluate a technical trade-off is managing blind.
+- **AI augments judgment, it doesn't replace it.** The goal is better engineering, not just faster output.
 
 ---
 
@@ -88,7 +77,9 @@ Open to Engineering Manager roles where strong mobile engineering foundations, t
 ![UIKit](https://img.shields.io/badge/UIKit-1C1C1E?style=flat-square&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -97,7 +88,7 @@ Open to Engineering Manager roles where strong mobile engineering foundations, t
 ---
 
 <div align="center">
-    
+
 [linkedin.com/in/alesanabriav](https://www.linkedin.com/in/alesanabriav/)
 
 </div>
