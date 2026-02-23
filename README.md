@@ -2,7 +2,7 @@
 
 # Alejandro Sanabria
 
-**Engineering Manager · iOS · Mobile**
+**Engineering Manager · Mobile (iOS & Android)**
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=8%2B+years+in+iOS+%26+mobile+engineering;Led+iOS+%26+Android+teams+at+Platzi;Building+with+LLMs+and+autonomous+agents;Connecting+engineering+to+business+outcomes" alt="Typing SVG" />
 
@@ -13,79 +13,69 @@
 
 ---
 
-## About
+## Executive Summary
 
-Engineering Manager with 8+ years of experience building and leading mobile teams. My background is deep in the Apple ecosystem — Swift, SwiftUI, UIKit, mobile architecture — and over time I've grown into leading full mobile organizations across iOS and Android.
+Engineering Manager with 8+ years in mobile, combining strong technical depth in iOS with people and delivery leadership across iOS and Android teams.
 
-I've spent my career at **Platzi**, one of Latin America's largest edtech platforms, progressing from iOS Engineer to Lead to Engineering Manager. I've been responsible for the architecture, quality, strategy, and people side of mobile — while also expanding into growth, product strategy, and business impact.
+At **Platzi**, I progressed from iOS Engineer to Lead to Engineering Manager, owning architecture direction, engineering quality, team development, and cross-functional execution for mobile.
 
-My focus now sits at the intersection of strong engineering fundamentals, team leadership, and the practical application of AI in how we build software.
-
----
-
-## iOS Engineering
-
-```swift
-struct Alejandro {
-    let core: [String]     = ["Swift", "SwiftUI", "UIKit", "Combine", "XCTest"]
-    let patterns: [String] = ["MVVM", "Clean Architecture", "Modular Design"]
-    let specialties        = ["Streaming", "Offline-first", "Internal SDKs"]
-    let currentFocus       = "On-device AI · Apple Foundation Models"
-}
-```
-
-- Led the migration from React Native to a fully native Swift iOS application
-- Designed the architecture for streaming and dynamic content delivery at scale
-- Built internal libraries that power the core mobile stack
-- Shipped on-device AI features using Apple's Foundation Models — recognized by Apple as an innovation example
-- Defined code quality standards, architectural direction, and review culture across the iOS codebase
-- Attended WWDC and Apple Developer Workshops in Mexico City and San Francisco
+I focus on building high-performing teams, maintaining a technically healthy mobile platform, and connecting engineering decisions to product and business outcomes.
 
 ---
 
-## Android
+## Leadership Scope
 
-Led the Android team as part of my Engineering Manager scope — providing architectural guidance, hands-on support for critical issues, and ensuring alignment with the broader mobile strategy. Not an Android specialist, but a manager who kept the team unblocked, consistent, and moving forward.
-
----
-
-## Leadership
-
-I scaled the mobile engineering team more than 3x across iOS and Android — recruiting, structuring, and developing engineers while maintaining high standards for quality and delivery.
+- Scaled the mobile organization across iOS and Android through hiring, team structure, and clear role expectations
+- Set technical direction and delivery standards with a strong focus on maintainability, quality, and predictable execution
+- Partnered with product, design, backend, and leadership to align roadmaps with business priorities
+- Built engineering culture around ownership, code quality, mentoring, and continuous improvement
+- Led planning and prioritization across multiple mobile squads, balancing delivery needs with long-term platform health
 
 | Area | Focus |
 |---|---|
 | Technical direction | Architecture decisions, long-term codebase health |
-| Technical debt | Systematic reduction initiatives that improved velocity and maintainability |
+| Technical debt | Structured reduction work to protect delivery speed and reliability |
 | Team development | Mentorship, career growth, and engineering culture |
 | Cross-functional alignment | Partnering with product, design, and backend |
-| Business impact | Connecting mobile engineering decisions to user acquisition, retention, and key metrics |
+| Business impact | Connecting engineering work to adoption, retention, and product outcomes |
 | Growth strategy | Expanding scope beyond mobile into product and business outcomes |
 
 ---
 
-## Business Impact
+## Engineering Credibility (Hands-on)
 
-Engineering decisions have consequences beyond the codebase. Over the past years I've intentionally shifted toward understanding the full picture — how architecture choices affect delivery speed, how mobile quality connects to retention, and how technical investments translate into measurable outcomes.
+- Deep iOS background: `Swift`, `SwiftUI`, `UIKit`, `Combine`, `XCTest`
+- Led migration from React Native to a fully native Swift iOS app
+- Designed architecture for streaming and dynamic content delivery
+- Built internal libraries used across the mobile stack
+- Defined iOS engineering standards: review quality, architecture consistency, and code health practices
+- Shipped on-device AI features using Apple Foundation Models; work was recognized by Apple as an innovation example
+- Participated in WWDC and Apple Developer Workshops in Mexico City and San Francisco
 
-- Drove technical debt reduction initiatives that increased team velocity and reduced incident rates
-- Expanded mobile engineering scope into growth and product strategy, aligning roadmap priorities with business metrics
-- Led cross-functional planning across iOS and Android squads, balancing engineering capacity with product and business goals
-- Platzi's mobile work recognized by Apple as an example of innovation — a direct outcome of the team's execution and direction
+### Android Collaboration
+
+Managed Android as part of a unified mobile strategy: partnering closely with Android specialists, supporting architecture decisions, unblocking critical delivery risks, and keeping iOS/Android execution aligned.
 
 ---
 
 ## AI & Autonomous Workflows
 
-Currently investing significant time in applying LLMs and agentic systems to real engineering problems — not as experimentation, but as a shift in how work gets done.
+I apply LLMs and agentic systems to improve engineering throughput and quality, with practical workflows that support day-to-day delivery.
+
 ```
-Claude Code     →  Agentic coding, architecture exploration, rapid prototyping
-LLM Pipelines   →  Automating repetitive engineering and content workflows
-Agent Design    →  Multi-step autonomous workflows with validation and handoffs
-Skill Systems   →  Modular, composable prompt architectures built for reuse
+Agentic coding  →  Faster architecture exploration and prototyping
+LLM pipelines   →  Reduced repetitive engineering workflow overhead
+Agent design    →  Multi-step workflows with validation and handoffs
+Skill systems   →  Reusable prompt patterns for consistent execution
 ```
 
-Using deep technical context to direct AI toward quality outcomes — speed without losing engineering judgment.
+Goal: increase speed while keeping engineering judgment, reliability, and maintainability.
+
+---
+
+## Current Focus
+
+Open to Engineering Manager roles where strong mobile engineering foundations, team leadership, and product impact are equally important.
 
 ---
 
