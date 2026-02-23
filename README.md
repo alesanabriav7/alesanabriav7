@@ -21,23 +21,45 @@ I'm an Engineering Manager who still thinks in systems and ships with AI. I lead
 
 I've spent most of my career at **Platzi**, and each phase taught me something different about how software gets built.
 
-I started as an iOS engineer obsessed with craft — reliable code, clean architecture, the kind of foundations you can build on for years. That's where I learned that quality isn't the opposite of speed; it's what makes speed sustainable.
+Joined **Platzi** as the second mobile engineer. Small team, big product, everything to figure out. That's where I learned `Swift` and `SwiftUI` deeply — and where I learned that quality isn't the opposite of speed; it's what makes speed sustainable.
 
-As the platform grew, so did the problems. I led the migration from React Native to fully native apps — Swift on iOS, Kotlin on Android. I've worked across all three paradigms: hybrid frameworks, native iOS, and native Android. That experience taught me what each approach actually costs and where each one breaks. The migration wasn't about picking a side; it was about understanding the trade-offs deeply enough to make the right call for the product.
+Then the platform outgrew its stack. I was part of the team that migrated from `React Native` to fully native apps — `Swift` on iOS, `Kotlin` on Android. Working across all three paradigms taught me what each approach actually costs and where each one breaks.
 
-From there, leadership became the natural next step. Not away from engineering — deeper into it. I took ownership of the full mobile platform — iOS and Android — scaling teams, aligning delivery with product and design, and turning technical debt reduction from a wish list into a discipline. I didn't stop caring about code; I started caring about the systems that produce code across both platforms.
+The migration wasn't about picking a side. It was about understanding the trade-offs deeply enough to make the right call for the product.
 
-Now I'm investing heavily in AI — not as a side interest, but as the next evolution of how I lead. The same instinct that drove me from writing code to building teams is now driving me toward building smarter workflows and autonomous execution patterns.
+Leadership came next. Not away from engineering — deeper into it. Helped scale the mobile platform across both iOS and Android, and pushed to turn technical debt reduction from a wish list into a discipline.
+
+Now I'm investing heavily in AI — not as a side interest, but as the next evolution of how I lead.
 
 ---
 
 ## How I Lead
 
-My job is to create the conditions where engineers do their best work and the product moves forward. That means operating across layers — architecture, people, process — and knowing when to go deep on each one.
+```swift
+struct LeadershipScope {
+    let platforms   = ["iOS", "Android"]
+    let stack       = ["Swift", "Kotlin", "React Native"]
+    let focus       = ["Architecture", "People", "Process"]
+    let approach    = "Go deep on each one, know when to switch"
+}
+```
 
-On the technical side, I've designed streaming and dynamic content architectures, built internal libraries shared across the mobile platform, and defined the guardrails that keep both iOS and Android codebases healthy as teams scale. I've shipped on-device AI features with Apple Foundation Models, and our mobile work was recognized by Apple as an innovation example. Having built with React Native, Swift, and Kotlin, I bring architectural judgment that isn't locked to one platform — I evaluate trade-offs across the full native and hybrid spectrum.
+**Technical side:**
 
-On the people side, I've scaled and structured mobile teams across both platforms, mentored engineers through career transitions, and built a review culture where high standards are the norm, not the exception. I lead Android scope directly — through close partnership with platform specialists, shared architecture decisions, critical unblocking, and unified execution standards that keep iOS and Android moving as one team, not two silos.
+- Helped design streaming and dynamic content architectures at scale
+- Contributed to internal libraries shared across the mobile platform
+- Helped define guardrails that keep both iOS and Android codebases healthy
+- Shipped on-device AI features with Apple Foundation Models alongside my team
+- The mobile team I helped build was recognized by Apple as an innovation example for Platzi
+- Architectural judgment across `React Native`, `Swift`, and `Kotlin` — not locked to one platform
+
+**People side:**
+
+- Helped scale and structure mobile teams across iOS and Android
+- Mentored engineers through career transitions with high standards
+- Shaped a review culture with the team where quality is the norm, not the exception
+
+**Android scope:** I lead it directly — shared architecture decisions, critical unblocking, and unified execution standards. iOS and Android move as one team, not two silos.
 
 The two sides aren't separate. The best technical decisions come from understanding your team, and the best teams are built around clear technical vision.
 
@@ -45,9 +67,9 @@ The two sides aren't separate. The best technical decisions come from understand
 
 ## What I'm Building Now
 
-AI is the biggest shift in how engineering work gets done since version control. I'm not waiting to see how it plays out — I'm building with it every day.
+AI is the biggest shift in how engineering work gets done since version control. I'm not waiting to see how it plays out.
 
-As an EM, I use AI to compress feedback loops, reuse context across decisions, and raise execution quality without adding headcount. As a builder, I'm going deeper:
+As an EM, I use AI to compress feedback loops, reuse context, and raise execution quality. As a builder, I'm going deeper:
 
 ```
 Agentic coding    → architecture exploration, rapid prototyping, shipping faster
@@ -56,13 +78,13 @@ Agent design      → multi-step execution with validation, handoffs, and recove
 Skill systems     → reusable prompt architectures that encode team knowledge
 ```
 
-This isn't experimentation. It's how I believe engineering teams will operate within a few years — and the managers who understand it deeply will build the strongest teams.
+This isn't experimentation. It's how engineering teams will operate — and the managers who understand it deeply will build the strongest teams.
 
 ---
 
 ## What I Believe
 
-- **Quality is a multiplier, not a tax.** Investing in architecture and standards pays back in velocity every sprint.
+- **Quality is a multiplier, not a tax.** Investing in architecture pays back in velocity every sprint.
 - **Lead from the code, not above it.** An EM who can't evaluate a technical trade-off is managing blind.
 - **AI augments judgment, it doesn't replace it.** The goal is better engineering, not just faster output.
 
@@ -73,9 +95,6 @@ This isn't experimentation. It's how I believe engineering teams will operate wi
 <div align="center">
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=apple&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-1C1C1E?style=flat-square&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
