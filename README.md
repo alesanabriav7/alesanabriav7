@@ -13,7 +13,9 @@
 
 ---
 
-I'm an Engineering Manager who still thinks in systems and ships with AI. I lead mobile teams at Platzi, make architecture decisions that stick, and use LLMs and autonomous agents to make engineering faster without making it worse.
+Engineering Manager who stays technical. 8+ years shipping mobile platforms end-to-end. Now building with LLMs and autonomous agents — designing workflows that change how teams engineer, not just what they ship.
+
+I've driven growth engineering and experimentation at scale, connecting architecture decisions to revenue and product outcomes.
 
 ---
 
