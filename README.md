@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alesanabriav/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/alesanabriav)
-[![Website](https://img.shields.io/badge/alesanabriav.com-333333?style=flat-square&logo=safari&logoColor=white)](https://alesanabriav.com)
+[![Website](https://img.shields.io/badge/alejandrosanabria.com-333333?style=flat-square&logo=safari&logoColor=white)](https://alejandrosanabria.com/)
 
 </div>
 
@@ -133,6 +133,6 @@ The goal is not AI for its own sake. The goal is better engineering judgment, fa
 
 <div align="center">
 
-[alesanabriav.com](https://alesanabriav.com) · [linkedin.com/in/alesanabriav](https://www.linkedin.com/in/alesanabriav/)
+[alejandrosanabria.com](https://alejandrosanabria.com/) · [linkedin.com/in/alesanabriav](https://www.linkedin.com/in/alesanabriav/)
 
 </div>
